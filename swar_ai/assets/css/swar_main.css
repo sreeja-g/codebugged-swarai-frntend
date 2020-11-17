@@ -1,5 +1,6 @@
 @media only screen and (max-width: 600px) {
     #hero {
       margin-top: 6rem;
+      margin-bottom: 2rem;
     }
   }
